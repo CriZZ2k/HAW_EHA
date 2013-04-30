@@ -1,0 +1,167 @@
+body{
+background-color:steelblue;
+text-align:center;
+}
+#webseite{
+width:1150px;
+margin:0 auto;
+}
+#header{
+width:1150px;
+height:170px;
+background: url(HAWEHALogogr.png) no-repeat ;
+background-position: center center;
+background-color:steelblue;
+border-radius: 5px;
+-moz-border-radius: 5px;
+-webkit-border-radius: 5px;
+-o-border-radius: 5px;
+}
+#header h1{
+padding-top:50px;
+font-size:60px;
+font-weight:bold;
+color:white;
+font-family:Courier;
+}
+#main{
+width:1150;
+}
+#menue{
+width:1150px;
+height:20px;
+background:white;
+margin-top:3px;
+margin-bot:3px;
+border-radius: 2px;
+-moz-border-radius: 2px;
+-webkit-border-radius: 2px;
+-o-border-radius: 2px;
+}
+
+.navi{
+list-style-type:none;
+}
+.navi a{
+text-decoration: none;
+color:#b1b1b1;
+float:left;
+padding: 10px 0 0 0;
+margin-right: 15px;
+}
+.navi a:hover{
+color:black;
+text-shadow: 0 0 10 px black;
+}
+#content{
+background-color: #eee;
+text-align:center;
+padding:10px 10px 80px 10px;
+}
+
+#inhalt{
+width:1150px;
+height:650px;
+background:white;
+margin-top:3px;
+margin-bot:3px;
+border-radius: 2px;
+-moz-border-radius: 2px;
+-webkit-border-radius: 2px;
+-o-border-radius: 2px;
+}
+#hauptGrafik{
+width:750px;
+height:400px;
+float:left;
+margin-top:3px;
+margin-bot:3px;
+border-radius: 2px;
+-moz-border-radius: 2px;
+-webkit-border-radius: 2px;
+-o-border-radius: 2px;
+}
+#rechteGrafik{
+width:350px;
+height:600px;
+float:right;
+margin-top:3px;
+margin-bot:3px;
+border-radius: 2px;
+-moz-border-radius: 2px;
+-webkit-border-radius: 2px;
+-o-border-radius: 2px;
+}
+
+#footer{
+width:1150px;
+height:20px;
+background:steelblue;
+margin-top:3px;
+margin-bot:3px;
+border-radius: 2px;
+-moz-border-radius: 2px;
+-webkit-border-radius: 2px;
+-o-border-radius: 2px;
+}
+
+.navi2{
+list-style-type:none;
+}
+.navi2 a{
+text-decoration: none;
+color:black;
+float:right;
+padding: 0 0 0 0;
+margin-right: 10px;
+}
+.navi2 a:hover{
+color:white;
+text-shadow: 0 0 10 px white;
+}
+
+#cssmenu ul {
+list-style-type:none;
+width:auto;
+position:relative;
+display:block;
+height:33px;
+font-size:.6em;
+background: #76B3F1 url(bg.png) repeat-x top left;
+font-family:Verdana,Helvetica,Arial,sans-serif;
+border:1px solid #000;
+margin:0;
+padding:0;
+}
+
+#cssmenu li {
+display:block;
+float:left;
+margin:0;
+padding:0;
+}
+
+#cssmenu li a {
+float:left;
+color:#A79787;
+text-decoration:none;
+height:24px;
+padding:9px 15px 0;
+font-weight:normal;
+}
+
+#cssmenu li a:hover,.current {
+color:#fff;
+background: #A3BAE6 url(bg.png) repeat-x top left;
+text-decoration:none;
+}
+
+#cssmenu .current a {
+color:#fff;
+font-weight:700;
+}
+
+
+
+
+
